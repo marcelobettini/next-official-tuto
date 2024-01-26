@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-continue with chapter 6: https://nextjs.org/learn/dashboard-app/setting-up-your-database
+continue with chapter 8: https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering
