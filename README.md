@@ -4,4 +4,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-continue with chapter 10: https://nextjs.org/learn/dashboard-app/partial-prerendering
+continue with chapter 12:
+
+https://nextjs.org/learn/dashboard-app/mutating-data
