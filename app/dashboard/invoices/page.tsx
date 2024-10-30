@@ -1,4 +1,4 @@
-function Page() {
+async function Page() {
     return (
         <div>
             <h1>Invoices</h1>
